@@ -110,3 +110,7 @@ The main objective of this project is to demonstrate how Excel can be used to an
 * KPI Analysis
 * Business Analysis
 * Data Visualization
+
+## 🖥️ Dashboard Preview
+
+![Ecommerce Sales Dashboard](screenshots/dashboard.png)
