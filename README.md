@@ -113,4 +113,4 @@ The main objective of this project is to demonstrate how Excel can be used to an
 
 ## 🖥️ Dashboard Preview
 
-![Ecommerce Sales Dashboard](screenshots/dashboard.png)
+![Ecommerce Sales Dashboard](screenshots/dashboard.png.png)
